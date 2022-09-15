@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Login.Account" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Student\Class\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Program" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Student\Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Globals" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>Student\Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.STUDENT" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAQAgAABEAAAAAAAAgEAAAAQAAAA=</HashCode>
+      <FileName>Student\Class\STUDENT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.SCORE" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAIAQAAAAAAABAAAAACA=</HashCode>
+      <FileName>Score\Classes\SCORE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.COURSE" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABABAACAAAAAAAAAAAAAEAAAAgAIAAAAAAAAAAIA=</HashCode>
+      <FileName>Course\Class\COURSE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.RESULT" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Result\Class\RESULT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.CONTACT" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAIRKAAAAAA=</HashCode>
+      <FileName>Human Resource\Class\CONTACT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.GROUP" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIAAAAAAAAAAAAAEAFAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Human Resource\Class\GROUP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.HRAccount" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Human Resource\Class\HRAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.USER">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAQAAACAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Human Resource\Class\USER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
